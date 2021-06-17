@@ -1,0 +1,33 @@
+Hey, I see that you are accessing this file.
+
+Are you accessing it via your commandline program?
+    No? 
+        Then get to work!
+
+    Yes? 
+        Good job! Have a smiley. :)
+
+This line is going to be visible with head 10
+This line is going to be invisible with head 10
+
+Here, have some go code:
+
+    package main
+
+    import "fmt"
+
+    func main () {
+        fmt.Println("Hello World!")
+    }
+
+This line will be invisible with tail 10
+This line will be visible with tail 10
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ultricies 
+felis a turpis congue tempor. Mauris ante ante, posuere laoreet risus at, 
+pharetra venenatis quam. Proin eu imperdiet lacus. Suspendisse luctus, 
+elit in congue accumsan, justo nisl commodo dolor, quis ullamcorper augue 
+nunc ut diam. Suspendisse potenti. Aliquam venenatis velit id metus molestie 
+vulputate. Integer mattis nulla et efficitur dictum.
+
+This is the end of the line for you my friend.
