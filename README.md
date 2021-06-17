@@ -28,4 +28,4 @@ As such, you may not be able to use all the material, but much of it should be p
 ## Questions
 
 If you have questions during the summer, feel free to send them to `hein.meling@uis.no`.
-I cannot guarantee that I can help with your specific problem, but will try my best to help.
+I cannot guarantee that I can help with your specific problem, but will try my best to help or point you in the right direction.
