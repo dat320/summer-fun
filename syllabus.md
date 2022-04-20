@@ -1,12 +1,12 @@
-# Tentative Syllabus
+# Syllabus From 2021 -- may change
 
 The course is based on this [textbook](http://pages.cs.wisc.edu/~remzi/OSTEP/):
 Operating Systems: Three Easy Pieces. Version 1.00.
 Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 
-Syllabus include Chapters 2-40 and 48-49 from the textbook, excluding the dialogue chapters and Chapter 38.
+Syllabus include Chapters 2-32, excluding the dialogue chapters.
 
-Chapters 36 and 37 are defined as *read on your own* and will *not* be subject to examination, but may be helpful to understand Chapters 39 and 40.
+Chapters 33-49 are defined as *read on your own* and will *not* be subject to examination.
 
 ## Excluded Subchapters
 
@@ -14,10 +14,9 @@ Chapters 36 and 37 are defined as *read on your own* and will *not* be subject t
 
 ## Syllabus also include
 
-- lecture videos
-- published slides and code snippets available on [course-info](https://github.com/dat320-2020/course-info/)
+- published slides and code snippets available on [info](https://github.com/COURSE_TAG/info/)
 - various videos and corresponding slides (see below) and
-- lab assignments 1-8 and relevant material from the lab assignments
+- lab assignments 1-7.
 
 ## Videos
 

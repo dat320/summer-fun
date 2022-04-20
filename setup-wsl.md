@@ -11,6 +11,13 @@ It also requires a recent version of Windows 10 (version 2004, build 19041 or hi
 We suggest using WSL2 for its performance improvements and other capabilities.
 You can read more about the differences between the WSL versions [here](https://docs.microsoft.com/en-us/windows/wsl/compare-versions).
 
+## IMPORTANT!! Before Continuing
+
+Your computer's BIOS **must be** configured to support **Virtualization**.
+
+Please consult this [blog post](https://s1gr1d.medium.com/how-to-set-up-linux-on-windows-with-wsl-2-debe2a64d20d).
+Specifically, Step 2 explains how to check if your computer is configured to support Virtualization, and how to configure it, if it is currently not supported.
+
 ## Installation
 
 Follow [this tutorial from Microsoft](https://docs.microsoft.com/en-us/windows/wsl/install-win10) to set up WSL(2).

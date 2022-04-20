@@ -1,14 +1,14 @@
 # Installing Go
 
-The most recent version of Go is 1.14.7 (at the time of writing).
-Go 1.15 will be released soon.
+The most recent version of Go is 1.81.1 (at the time of writing).
+Go 1.19 is expected in September.
 If your system already comes with a version of Go, you may check your version like this:
 
 ```sh
 go version
 ```
 
-We recommend installing the latest version of Go; you will need at least Go 1.13 for the labs in this course.
+We recommend installing the latest version of Go.
 
 ## Installing on Linux Systems
 
