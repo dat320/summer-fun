@@ -139,9 +139,10 @@ ssh nejm@ssh2.ux.uis.no
 ssh nejm@ssh3.ux.uis.no 
 ssh nejm@ssh4.ux.uis.no 
 ```
+
 To ssh from outside the campus you will have to use two factor authentication as explained in [2FA UiS](https://foswiki.ux.uis.no/bin/view/Info/TwoFactorAuthentication).
 
-Once you are in one of the jump hosts, you should be able to ssh into ```gorina1.ux.uis.no``` and perform your labs.
+Once you are in one of the jump hosts, you should be able to ssh into `gorina1.ux.uis.no` and perform your labs.
 
 
 *The following may be skipped if you can login from the jump machines to the lab server without typing a password.*
