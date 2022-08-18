@@ -119,7 +119,7 @@ echo $SHELL
 *Skip this part if you haven't got a Unix account password yet.*
 *If so, come back and do it later, because you will need it to complete this lab.*
 
-Here is a [SSH tutorial video](https://youtu.be/qik3HHZW6C0) illustrating the steps below (and a bit more).
+<!Here is a [SSH tutorial video](https://youtu.be/qik3HHZW6C0) illustrating the steps below (and a bit more).>
 
 You can use `ssh` to log on to another machine without physically going to that
 machine and login there. This makes it easy to run and test the example code
@@ -131,26 +131,20 @@ username and hostname:
 ssh username@hostname
 ```
 
-If you are not on campus, you first need to login to one of the jump hosts that are available for Internet access:
+You first need to login to one of the jump hosts that are available for Internet access, for example:
 
 ```console
-ssh meling@ssh1.ux.uis.no
+ssh nejm@ssh1.ux.uis.no 
+ssh nejm@ssh2.ux.uis.no 
+ssh nejm@ssh3.ux.uis.no 
+ssh nejm@ssh4.ux.uis.no 
 ```
+To ssh from outside the campus you will have to use two factor authentication as explained in [2FA UiS](https://foswiki.ux.uis.no/bin/view/Info/TwoFactorAuthentication).
 
-Other machines that are accessible from the Internet, e.g. from home, are: `ssh2`, `badne5`, `badne7`.
+Once you are in one of the jump hosts, you should be able to ssh into ```gorina1.ux.uis.no``` and perform your labs.
 
-This must be done before you can login to the machines in the Linux lab.
-If you are on campus however, you can skip the above step.
-To log on to one of the machines in the Linux lab, I can run:
 
-```console
-ssh meling@pitter18.ux.uis.no
-```
-
-This will prompt for your password.
-Enter your account password and you will be logged into that machine remotely.
-
-*The following may be skipped if you can login from one pitter machine to another without typing a password.*
+*The following may be skipped if you can login from the jump machines to the lab server without typing a password.*
 *If so, your account was created with the appropriate ssh keys in your `authorized_keys` file.*
 *(The following text is left in here for your information in case you want to configure your own machine's logins.)*
 
