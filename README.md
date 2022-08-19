@@ -1,15 +1,12 @@
 # Summer Fun with Operating Systems and Systems Programming
 
-This repository is made available for students wanting to get a head start on their studies for the Fall 2022.
-The first three labs of DAT320 is available here.
+This repository is made available for students to get started with DAT320 for the Fall 2022 (`dat320-2022`).
+The first three labs of DAT320 are available here. The students will be able to to submit their lab work as soon as the QuickFeed system for `dat320-2022` course is up and running.  
 You can navigate to the different folders and click on the various Markdown files (`.md` files) and read their content.
 Some of them end with `_questions.md`.
 These are assignment questions that you can try to answer.
 
-Our QuickFeed tool will not available for running tests on these assignments.
-Further, we have not created the 2022 version of the course quite yet, so it won't be possible to sign up and use the `dat320-2022` course on GitHub.
-For material that makes reference to `dat320-202x`, please ignore those parts.
-As such, you may not be able to use all the material, but much of it should be possible to use.
+*For material that makes reference to `dat320-202x`, please ignore those parts.*
 
 ## Recommended Tasks
 
@@ -24,6 +21,12 @@ As such, you may not be able to use all the material, but much of it should be p
 - Lab3: Go Programming.
   This is the main programming language in this course and is therefore strongly recommended that you learn as much as you can before the semester.
   We recommend exploring the provided resources and possibly other resources as well to hone your Go programming skills.
+
+### Syllabus
+
+The course syllabus is based on this [textbook](http://pages.cs.wisc.edu/~remzi/OSTEP/):
+Operating Systems: Three Easy Pieces. Version 1.00.
+Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 
 ### Recommended Go Books
 
