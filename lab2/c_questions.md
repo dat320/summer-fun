@@ -104,6 +104,7 @@ No other changes to the text should be made.
         int i = 1;
         int *p = &i;
         p += 2;
+    }
     ```
 
 6. Given the program below, what is the final value of `i` after `main` has completed?
